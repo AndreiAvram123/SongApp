@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SongApp</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="invalid_email">INVALID EMAIL</string>
+    <string name="invalid_password">INVALID PASSWORD</string>
+    <string name="choose_email">Choose an email</string>
+    <string name="create_password">Create a password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="reenter_password">Reenter password</string>
+    <string name="choose_nickname">Choose a nickname</string>
+    <string name="next_button">NEXT</string>
+    <string name="error_reenter_password">Plese reenter the password</string>
+    <string name="error_choose_nickname">Please choose a nickname</string>
+    <string name="passwords_not_match">The passwords do not match</string>
+    <string name="profile_created">We have created your profile</string>
+    <string name="error_create_account">Error...We were unable to create an account</string>
+    <string name="error_login">Error..We were unable to log you in</string>
+    <string name="no_internet_connection_error">Opps..There is no internet connection available...</string>
+    <string name="positive_button">ALRIGHT</string>
+    <string name="verification_email_sent">Use the link in your email to confirm it is you.</string>
+</resources>

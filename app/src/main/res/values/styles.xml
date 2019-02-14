@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#323943</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#76B900</item>
+    </style>
+
+    <style name="default_style_textView">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name= "textViewHighlighted">
+        <item name="android:textColor" >#76B900</item>
+        <item name = "android:textSize">18sp</item>
+        <item name ="android:gravity">left</item>
+
+    </style>
+
+
+
+</resources>
